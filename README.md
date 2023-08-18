@@ -2,13 +2,12 @@
 
 I'm still a newbie in computer science 🍼, but i'm here to leave a mark in this world. Here you will find mainly my personal projects with some headache stuff that I had to solve at work to carry on my tasks (But theres a lot more intersting things in the private side 🌑).
 
-`` I will work with the tecnology to make the life of people with diseases more easy, because because surviving is not living ``
+`` I will work with the tecnology to make the life of people with diseases more easy, because surviving is not living ``
 
 Enjoy ✌
 
-
 <details> 
-<summary> <h3> About Me  👈</h3> </summary>
+<summary> <h4> About Me  👈</h4> </summary>
 👋 Hi, i'm Mattia Castellani, i'm born in 1996 and i'm from Treppo Grande in Friuli (Italy 🇮🇹).
 
 I studied Computer science at Università degli studi di Udine. <br/>
@@ -24,11 +23,12 @@ and i've no much time to make personal projets based on that skills now.
 
 
 As soon as i've the budget i will firstly buy a desktop pc (yeah i'm using a laptop now) with a decent nvidia card to do some Machine Learning stuff.
-Than i will build my home lab to host my private cloud, nas, router and other nice things. 
-        
+Than i will build my home lab to host my private cloud, nas, router and other nice things.         
 </details>
 
-## LANGUAGES AND TOOLS
+---
+
+## LANGUAGES AND TOOLS:
 
 <img align="left" alt="TypeScript" width="30px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
@@ -44,8 +44,13 @@ Than i will build my home lab to host my private cloud, nas, router and other ni
 <img align="left" alt="AndroidStudio" width="30px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Unity" width="30px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
+<br/>
 
-## STATS
+---
+
+## STATS:
 Not so intersting at the moment but it's cool 🙃
 
-[![Marie's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarieCMDM&show_icons=true&theme=cobalt)]
+![Marie's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarieCMDM&show_icons=true&theme=cobalt)
+
+---
