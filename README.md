@@ -2,13 +2,13 @@
 
 I'm still a newbie in computer science 🍼, but i'm here to leave a mark in this world. Here you will find mainly my personal projects with some headache stuff that I had to solve at work to carry on my tasks (But theres a lot more intersting things in the private side 🌑).
 
-`` I will work with the tecnology to make the life of people with diseases more easy, because surviving is not living ``
+`` I want work with tecnologies that will help people with diseases to have an easier life, because surviving is not living ``
 
 Enjoy ✌
 
 <details> 
 <summary> <h4> About Me  👈</h4> </summary>
-👋 Hi, i'm Mattia Castellani, i'm born in 1996 and i'm from Treppo Grande in Friuli (Italy 🇮🇹).
+👋 Hi, i'm Mattia Castellani, i was born in 1996 and i'm from Treppo Grande in Friuli (Italy 🇮🇹).
 
 I studied Computer science at Università degli studi di Udine. <br/>
 I studied Biomedical Informatics at ITS A. Volta per le Nuove tecnologie della vita. 
@@ -19,10 +19,10 @@ I've done other jobs durning my studies and i start working with tech only recen
 - Build API's with node and express
 - Build a Computer Vision model that recognize colored cubes 
 
-and i've no much time to make personal projets based on that skills now.
+and i don't have much spare time to make personal projets based on those skills now.
 
 
-As soon as i've the budget i will firstly buy a desktop pc (yeah i'm using a laptop now) with a decent nvidia card to do some Machine Learning stuff.
+As soon as i have the budget to do so, i will firstly buy a desktop pc (yeah i'm using a laptop now) with a decent nvidia card to do some Machine Learning stuff.
 Than i will build my home lab to host my private cloud, nas, router and other nice things.         
 </details>
 
