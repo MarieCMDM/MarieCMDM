@@ -51,6 +51,13 @@ Than i will build my home lab to host my private cloud, nas, router and other ni
 ## STATS:
 Not so intersting at the moment but it's cool 🙃
 
-![Marie's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarieCMDM&show_icons=true&theme=cobalt)
+![Marie's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarieCMDM&show_icons=true&rank_icon=github&theme=cobalt)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarieCMDM&langs_count=8&theme=cobalt)
+
+---
+
+## MOST INTERSTING PROJECTS:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarieCMDM&repo=ws2812b_spidev_communication&theme=cobalt)](https://github.com/MarieCMDM/ws2812b_spidev_communication)
 ---
