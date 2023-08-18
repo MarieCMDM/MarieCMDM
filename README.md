@@ -48,6 +48,4 @@ Than i will build my home lab to host my private cloud, nas, router and other ni
 ## STATS
 Not so intersting at the moment but it's cool 🙃
 
-[![Marie's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarieCMDM&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-![Marie's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarieCMDM&show_icons=true&theme=cobalt)
-
+[![Marie's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarieCMDM&show_icons=true&theme=cobalt)]
